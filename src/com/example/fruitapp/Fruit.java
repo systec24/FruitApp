@@ -3,7 +3,6 @@ package com.example.fruitapp;
 import java.util.Comparator;
 
 public class Fruit {
-
 	int no;
 	String name;
 	int price;
